@@ -253,6 +253,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Reactant](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS 
 * [YARCH](https://github.com/alfa-laboratory/YARCH-Examples) - More clean alternative to VIPER with unidirectional data flow (flux-like). 
 * [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) - This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.
+* [Tempura](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 
 ## ARKit
@@ -494,6 +495,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Default](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support 
 * [IceCream](https://github.com/caiyue1993/IceCream) - Sync Realm Database with CloudKit 
 * [FirebaseHelper](https://github.com/quanvo87/FirebaseHelper) - Safe and easy wrappers for common Firebase Realtime Database functions.
+* [Shallows](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 
 ## Data Structures / Algorithms
 * [SwiftSortedList](https://github.com/bemindinteractive/SwiftSortedList) - A sorted list implementation written in Swift 
@@ -2197,6 +2199,7 @@ Most of these are paid services, some have free tiers.
 * [DTPagerController](https://github.com/tungvoduc/DTPagerController) - A fully customizable container view controller to display set of ViewControllers in horizontal scroller 
 * [PagingKit](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI It has more flexible layout and design than the other libraries.  
 * [Dropdowns](https://github.com/hyperoslo/Dropdowns) - 💧 Dropdown in Swift
+* [Parchment](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu. Built on UICollectionView, with support for custom layouts and infinite data sources.
 
 #### Navigation Bar
 * [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar) - Easily hide and show a view controller's navigation bar (and tab bar) as a user scrolls 
@@ -2377,6 +2380,7 @@ Most of these are paid services, some have free tiers.
 * [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar for iOS. 
 * [WormTabStrip](https://github.com/EzimetYusup/WormTabStrip) Beatiful ViewPager For iOS written in Swift  (inspired by Android [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout))
 * [SSCustomTabMenu](https://github.com/simformsolutions/SSCustomTabMenu) Simple customizable iOS bottom menu with Tabbar. 
+* [SmoothTab](https://github.com/yervandsar/SmoothTab) - Smooth customizable tabs for iOS apps.
 
 #### Table View / Collection View
 * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
