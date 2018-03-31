@@ -4,6 +4,7 @@
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   <a href="https://gitter.im/vsouza/awesome-ios"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
   <a href="https://travis-ci.org/vsouza/awesome-ios"><img alt="Build Status" src="https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master" /></a>
+  <img alt="pr-closed" src="https://img.shields.io/github/issues-pr-closed/vsouza/awesome-ios.svg" />
   <img alt="Language" src="https://awesomelinkcounter.herokuapp.com/swift" />
   <img alt="Language" src="https://awesomelinkcounter.herokuapp.com/objc" />
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
@@ -380,7 +381,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [OCLint](https://github.com/oclint/oclint) - Static code analysis tool for improving quality and reducing defects.
 * [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms. 
 * [Swiftlint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions. 
-* [IBLinter](https://github.com/kateinoigakukun/IBLinter) - A linter tool for Interface Builder. 
+* [IBLinter](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder. 
 
 ## Color
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). 
@@ -550,7 +551,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [LFTimePicker](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift 
 
 ## Debugging
-* [Xniffer](https://github.com/vsouza/awesome-ios/issues/1841) - A swift network profiler built on top of URLSession. 
+* [Xniffer](https://github.com/xmartlabs/Xniffer) - A swift network profiler built on top of URLSession. 
 * [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, iOS / macOS network debugging library! 
 * [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools.
 * [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
@@ -562,7 +563,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [NetworkEye](https://github.com/coderyi/NetworkEye) - a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request.
 * [Dotzu](https://github.com/remirobert/Dotzu) - iOS app debugger while using the app. Crash report, logs, network.
 * [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect measurements, attributes, and animations.
-* [Httper-iOS](https://github.com/MuShare/Httper-iOS) - App for developers to test REST API. 
+* [Httper-iOS](https://github.com/MuShare/Httper-iOS) - App for developers to test REST API.
+* [Droar](https://github.com/myriadmobile/Droar) - Droar is a modular, single-line installation debugging window
 
 ## EventBus
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8. 
@@ -862,6 +864,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [JDSwiftHeatMap](https://github.com/jamesdouble/JDSwiftHeatMap) - JDSwiftMap is an IOS Native MapKit Library. You can easily make a highly customized HeatMap. 
 * [ClusterKit](https://github.com/hulab/ClusterKit) - An iOS map clustering framework targeting MapKit, Google Maps and Mapbox.
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
+* [MapViewPlus](https://github.com/okhanokbay/MapViewPlus) - Use any custom view as custom callout view of your MKMapView with cool animations. Also, easily use any image as annotation view.
 
 ## Math
 * [Euler](https://github.com/mattt/Euler) - Swift Custom Operators for Mathematical Notation 
@@ -1862,11 +1865,11 @@ Most of these are paid services, some have free tiers.
 * [Skeleton](https://github.com/gonzalonunez/Skeleton) - An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content. 
 +* [StatusBarOverlay](https://github.com/IdleHandsApps/StatusBarOverlay) - Automatically show/hide a "No Internet Connection" bar when your app loses/gains connection. It supports apps which hide the status bar and "The Notch" 
 * [RetroProgress](https://github.com/hyperoslo/RetroProgress) - Retro looking progress bar straight from the 90s.
+* [LinearProgressBar](https://github.com/Recouse/LinearProgressBar) - Material Linear Progress Bar for your iOS apps.
 
 #### Animation
 * [Pop](https://github.com/facebook/pop) - An extensible iOS and macOS animation library, useful for physics-based interactions.
 * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
-* [Awesome-iOS-Animation](https://github.com/jackymelb/awesome-ios-animation) - Collection of Animation projects
 * [RZTransitions](https://github.com/Raizlabs/RZTransitions) - A library of custom iOS View Controller Animations and Interactions.
 * [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) - A collection of animations for iOS. Simple, just add water animations.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift. 
@@ -2074,7 +2077,6 @@ Most of these are paid services, some have free tiers.
 * [CVCalendar](https://github.com/CVCalendar/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). 
 * [RSDayFlow](https://github.com/ruslanskorb/RSDayFlow) - iOS 7+ Calendar with Infinite Scrolling.
 * [NWCalendarView](https://github.com/nbwar/NWCalendarView) - An availability calendar implementation for iOS 
-* [FSCalendar](https://github.com/WenchaoD/FSCalendar) - A superiorly awesome iOS7+ calendar control, compatible with both Objective-C and Swift2.
 * [GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) - A fully customizable calendar view acting as a date range picker
 * [JTCalendar](https://github.com/jonathantribouharet/JTCalendar) - A customizable calendar view for iOS.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The Unofficial Swift Apple Calendar Library. View. Control. for iOS & tvOS 
@@ -2660,7 +2662,7 @@ CollectionView, make Instagram Discover within minutes.
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - High performance WebSocket client library for Swift, iOS and macOS. 
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and macOS 
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple socket library for apple swift lang. 
-* [Socks](https://github.com/vapor/sockets) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, macOS 
+* [Socks](https://github.com/vapor-community/sockets) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, macOS 
 * [SwifterSockets](https://github.com/Balancingrock/SwifterSockets) - A collection of socket utilities in Swift for OS-X and iOS 
 * [Swift-ActionCableClient](https://github.com/danielrhodes/Swift-ActionCableClient) - ActionCable is a new WebSocket server being released with Rails 5 which makes it easy to add real-time features to your app. 
 
@@ -2878,7 +2880,7 @@ CollectionView, make Instagram Discover within minutes.
 * [iOS Developer and Designer interview](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
 * [iOS9-day-by-day](https://github.com/shinobicontrols/iOS9-day-by-day) 
 * [Code Facebook](https://code.facebook.com/ios/)
-* [iOS Cookies](http://www.ioscookies.com/) - A hand curated collection of iOS libraries written in Swift 
+* [iOS Cookies](https://ioscookies.com/) - A hand curated collection of iOS libraries written in Swift 
 * [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
 * [iOS10 day-by-day](https://www.shinobicontrols.com/blog/ios-10-day-by-day-index) 
 * [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and macOS.
@@ -3019,6 +3021,7 @@ Other amazingly awesome lists can be found in the
 * [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of cocoa conferences for iOS & macOS developers.
 * [example-ios-apps](https://github.com/imjog/example-ios-apps) - A curated list of Open Source example iOS apps developed in Swift.
 * [Curated-Resources-for-Learning-Swift](https://hackr.io/tutorials/learn-ios-swift) - A curated list of resources recommended by the developers.
+* [Awesome-iOS-Animation](https://github.com/jzau/awesome-ios-animation) - Collection of Animation projects
 
 # Contributing and License
  * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
