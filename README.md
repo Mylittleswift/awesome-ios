@@ -622,6 +622,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [TimePicker](https://github.com/Endore8/TimePicker) - Configurable time picker component based on a pan gesture and its velocity.
 * [LFTimePicker](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift
 * [NVDate](https://github.com/novalagung/nvdate) - Swift4 Date extension library
+* [Schedule](https://github.com/jianstm/Schedule) - ⏳ A missing lightweight task scheduler for Swift with an incredibly human-friendly syntax.
 
 ## Debugging
 
@@ -3160,7 +3161,8 @@ CollectionView, make Instagram Discover within minutes.
 * [Principle](http://principleformac.com)
 
 ### Newsletters
-* [iOS Goodies](http://ios-goodies.com) - Weekly iOS newsletter
+* [AwesomeiOS Weekly](http://weekly.awesomeios.com) - AwesomeiOS Weekly
+* [iOS Goodies](https://ios-goodies.com) - Weekly iOS newsletter
 * [raywenderlich.com Weekly](https://www.raywenderlich.com/newsletter) - sign up to receive the latest tutorials from raywenderlich.com each week
 * [iOS Dev Tools Weekly](https://iosdev.tools) - The greatest iOS development tools, including websites, desktop and mobile apps, and back-end services.
 * [iOS Trivia Weekly](http://wanderbit.us4.list-manage.com/subscribe?u=4e20cd8ea3a0ce09ff4619a52&id=5898a5992b) - Three challenging questions about iOS development every Wednesday
@@ -3195,11 +3197,11 @@ CollectionView, make Instagram Discover within minutes.
 * [Framer JS](https://www.facebook.com/groups/framerjs/about/)
 
 ## Podcasts
-* [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
+* [The Ray Wenderlich Podcast](https://www.raywenderlich.com/podcast)
 * [Debug](https://www.imore.com/debug)
 * [App Story](http://www.appstorypodcast.com)
 * [Mobile Couch](https://mobilecouch.co/)
-* [iPhreaks](https://devchat.tv/iphreaks)
+* [iPhreaks](https://devchat.tv/iphreaks/)
 * [Under the Radar](https://www.relay.fm/radar)
 * [Core Intuition](http://coreint.org/)
 * [Swift Playhouse](http://www.swiftplayhouse.com/)
