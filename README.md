@@ -29,6 +29,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [About](#about)
 - [How to Use](#how-to-use)
 - [Courses](#courses)
+- [Accessibility](#accessibility)
 - [Analytics](#analytics)
 - [App Routing](#app-routing)
 - [Apple TV](#apple-tv)
@@ -203,6 +204,12 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Udacity - Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
 * [Udemy - ARKit - Beginner to Professional in Swift 4 and iOS 11](https://www.udemy.com/arkit-beginner-to-professional/?couponCode=CREATORS)
 * [ARStarter](https://github.com/codePrincess/ARStarter) - Get started with ARKit - A little exercise for beginners
+
+## Accessibility
+
+ *Frameworks that help to support accessibility features and enable people with disabilities to use your app*
+
+* [Capable](https://github.com/chrs1885/Capable) - Track accessibility features to improve your app for people with certain disabilities. 
 
 ## Analytics
 
@@ -1293,6 +1300,7 @@ Also see [push notifications](#push-notifications)
 * [Dots](https://github.com/iAmrSalman/Dots) - Lightweight Concurrent Networking Framework.
 * [Gem](https://github.com/Albinzr/Gem) - An extreme light weight system with high performance for managing all http request with automated parser with modal.
 * [RMHttp](https://github.com/rogermolas/RMHttp) - Lightweight REST library for iOS and watchOS.
+* [AlamoRecord](https://github.com/tunespeak/AlamoRecord) - An elegant yet powerful iOS networking layer inspired by ActiveRecord.
 
 ### Email
 
@@ -1526,6 +1534,7 @@ Most of these are paid services, some have free tiers.
 * [Katana](https://github.com/BendingSpoons/katana-swift) - Swift apps a la React and Redux.
 * [TemplateKit](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces in Swift.
 * [Komponents 📦](https://github.com/freshOS/Komponents) - React-inspired UIKit Components.
+* [CoreEvents](https://github.com/surfstudio/CoreEvents) - Simple library with C#-like events.
 
 ## Reflection
 * [Reflection](https://github.com/Zewo/Reflection) - Reflection provides an API for advanced reflection at runtime including dynamic construction of types.
