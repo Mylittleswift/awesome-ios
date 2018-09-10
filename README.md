@@ -13,11 +13,11 @@
 A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions and plugins, components and much more.
 The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md).
 
-## Recommended SDK for bug and crash reporting [Instabug](https://goo.gl/hNadrZ)
-[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
-> Instabug has just released their visual repro steps feature to enable you to trace all the views that the user interacted with before a bug or a crash occured. This will help you reproduce bugs and fix them 10x faster. We highly recommend integrating Instabug’s framework as they compiled a lot of other great features like network logs and screen annotations, providing you with useful and rich data attached to each bug or crash report.
-Instabug is offering awesome-ios community an exclusive **15% discount** on all paid plans. [**Go to 1 minute integration guide.**](https://goo.gl/q93Qtd)
+## Recommended SDK for bug and crash reporting [Instabug](https://goo.gl/qoc5F8)
+[![instabug-github](https://user-images.githubusercontent.com/9888943/44792036-517d8680-aba3-11e8-99f5-02578d763fe8.png)](https://goo.gl/qoc5F8)
+> Get super detailed bug reports directly into your GitHub project with Instabug. The level of details Instabug’s SDK grabs with each bug report attracted tens of thousands of companies like Lyft, T-Mobile and eBay. They rely on them enhancing their app quality and iterating faster. We highly recommend integrated Instabug’s framework as they compiled a lot of great features that provides mobile developers with all the details needed in one organized dashboard to fix bugs in minutes, instead of wasting time debugging. [Install from GitHub Marketplace](https://goo.gl/qoc5F8)
 [![](https://goo.gl/A74z8Q)](https://instabug.com)
+
 
 ## How to Use
 Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use are:
@@ -2248,7 +2248,7 @@ Most of these are paid services, some have free tiers.
 * [LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 * [MultiToggleButton](https://github.com/yonat/MultiToggleButton) - A UIButton subclass that implements tap-to-toggle button text (Like the camera flash and timer buttons).
 * [PMSuperButton](https://github.com/pmusolino/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard!
-* [JSButton](https://github.com/imjog/JSButton) - A fully customisable swift subclass on UIButton which allows you to create beautiful buttons without writing any line of code.
+* [JSButton](https://github.com/jogendra/JSButton) - A fully customisable swift subclass on UIButton which allows you to create beautiful buttons without writing any line of code.
 * [TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation
 * [ButtonProgressBar-iOS](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible UIButton subclass with animated loading progress, and completion animation.
 * [SpicyButton](https://github.com/lukecrum/SpicyButton) - Full-featured IBDesignable UIButton class
@@ -2349,8 +2349,8 @@ Most of these are paid services, some have free tiers.
 * [UICountingLabel](https://github.com/dataxpress/UICountingLabel/) - Adds animated counting support to UILabel.
 * [SlidingText](https://github.com/dnKaratzas/SlidingText) -  Swift UIView for sliding text with page indicator.
 * [NumericAnimatedLabel](https://github.com/javalnanda/NumericAnimatedLabel/) -  Swift UIView for showing numeric label with incremental and decremental step animation while changing value. Useful for scenarios like displaying currency.
-* [JSLabel](https://github.com/imjog/JSLabel/) -  A simple designable subclass on UILabel with extra IBDesignable and Blinking features.
-* [AnimatedMaskLabel](https://github.com/imjog/AnimatedMaskLabel) -  Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app.
+* [JSLabel](https://github.com/jogendra/JSLabel) -  A simple designable subclass on UILabel with extra IBDesignable and Blinking features.
+* [AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel) -  Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app.
 
 ### Login
 * [LFLoginController](https://github.com/awesome-labs/LFLoginController) - Customizable login screen, written in Swift.
@@ -2537,7 +2537,6 @@ Most of these are paid services, some have free tiers.
 * [VerticalSlider](https://github.com/jonkykong/VerticalSlider) - VerticalSlider is a vertical implementation of the UISlider slider control.
 * [CircularSlider](https://github.com/taglia3/CircularSlider) - A powerful Circular Slider. It's written in Swift, it's 100% IBDesignable and all parameters are IBInspectable.
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
-* [PivotSlider](https://github.com/mrkey0310/pivot-slider) - Slider that pivots
 * [RangeSeekSlider](https://github.com/WorldDownTown/RangeSeekSlider) - A customizable range slider for iOS.
 * [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 * [MultiSlider](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, optional snap intervals, optional value labels.
@@ -3276,7 +3275,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 * [Awesome ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources.
 * [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of cocoa conferences for iOS & macOS developers.
-* [example-ios-apps](https://github.com/imjog/example-ios-apps) - A curated list of Open Source example iOS apps developed in Swift.
+* [example-ios-apps](https://github.com/jogendra/example-ios-apps) - A curated list of Open Source example iOS apps developed in Swift.
 * [Curated-Resources-for-Learning-Swift](https://hackr.io/tutorials/learn-ios-swift) - A curated list of resources recommended by the developers.
 * [ClassicProblemSolvingAndDataStructuresInSwift](https://github.com/smalam119/classic-problem-solving-algorithms-and-data-structures-in-swift) - Collection of popular algorithms, data structure and problem solving in Swift 4.
 * [Awesome list of open source applications for macOS](https://github.com/serhii-londar/open-source-mac-os-apps) - List of awesome open source applications for macOS.
