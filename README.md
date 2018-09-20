@@ -329,6 +329,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [EthereumKit](https://github.com/D-Technologies/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
 * [BitcoinKit](https://github.com/yenom/BitcoinKit) - Bitcoin protocol toolkit for Swift, BitcoinKit implements Bitcoin protocol in Swift. It is an implementation of the Bitcoin SPV protocol written (almost) entirely in swift.
 * [EtherWalletKit](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
+* [CoinpaprikaAPI](https://github.com/coinpaprika/coinpaprika-api-swift-client) - Coinpaprika API client with free & frequently updated market data from the world of crypto: coin prices, volumes, market caps, ATHs, return rates and more.
 
 ## Bridging
 
@@ -822,6 +823,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FDTake](https://github.com/fulldecent/FDTake) - Easily take a photo or video or choose from library.
 * [YPImagePicker](https://github.com/Yummypets/YPImagePicker) - Instagram-like image picker & filters for iOS
 * [MockImagePicker](https://github.com/yonat/MockImagePicker) - Mock UIImagePickerController for testing camera based UI in simulator.
+* [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) - A collection of code examples for Depth APIs.
 
 ### Force Touch
 
@@ -1208,7 +1210,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ios-360-videos](https://github.com/NYTimes/ios-360-videos) - NYT360Video plays 360-degree video streamed from an AVPlayer.
 * [swift-360-videos](https://github.com/gsabran/DDDKit) - Pure swift (no SceneKit) 3D library with focus on video and 360.
 * [ABMediaView](https://github.com/andrewboryk/ABMediaView) - UIImageView subclass for drop-in image, video, GIF, and audio display, with functionality for fullscreen and minimization to the bottom-right corner.
-* [PryntTrimmerView](https://github.com/prynt/PryntTrimmerView) - A set of UI elements to trim, crop and select frames inside a video.
+* [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - A set of UI elements to trim, crop and select frames inside a video.
 * [VGPlayer](https://github.com/VeinGuo/VGPlayer) - A simple iOS video player in Swift,Support play local and network,Background playback mode.
 * [YoutubeKit](https://github.com/rinov/YoutubeKit) - A video player that fully supports Youtube IFrame API and YoutubeDataAPI for easily create a Youtube app.
 * [Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player) - Swift library for embedding and controlling YouTube videos in your iOS applications!
@@ -1310,6 +1312,7 @@ Also see [push notifications](#push-notifications)
 * [Gem](https://github.com/Albinzr/Gem) - An extreme light weight system with high performance for managing all http request with automated parser with modal.
 * [RMHttp](https://github.com/rogermolas/RMHttp) - Lightweight REST library for iOS and watchOS.
 * [AlamoRecord](https://github.com/tunespeak/AlamoRecord) - An elegant yet powerful iOS networking layer inspired by ActiveRecord.
+* [MHNetwork](https://github.com/emadhegab/MHNetwork) - Protocol Oriented Network Layer Aim to avoid having bloated singleton NetworkManager
 
 ### Email
 
@@ -1567,7 +1570,7 @@ Most of these are paid services, some have free tiers.
 
 * [Spotify](https://github.com/spotify/ios-sdk) Spotify iOS SDK.
 * [SpotifyLogin](https://github.com/spotify/SpotifyLogin) Spotify SDK Login in Swift.
-* [Facebook](https://github.com/facebook/facebook-ios-sdk) Facebook iOS SDK.
+* [Facebook](https://github.com/facebook/facebook-objc-sdk) Facebook iOS SDK.
 * [Facebook Swift](https://github.com/facebook/facebook-sdk-swift) Integrate your iOS apps in Swift with Facebook Platform.
 * [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS
 * [Paypal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK) The PayPal Mobile SDKs enable native apps to easily accept PayPal and credit card payments.
@@ -2908,7 +2911,7 @@ CollectionView, make Instagram Discover within minutes.
 * [chairs](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line.
 * [xcproj](https://github.com/tuist/xcodeproj) - Read and update Xcode projects.
-
+* [Tuist](https://github.com/tuist/tuist) - A tool to create, maintain and interact with Xcode projects at scale.
 
 ## Dependency / Package Manager
 * [CocoaPods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
@@ -2994,7 +2997,6 @@ CollectionView, make Instagram Discover within minutes.
 * [Transformer](https://github.com/andresinaka/transformer) - Easy Online Attributed String Creator. This tool lets you format a string directly in the browser and then copy/paste the attributed string code into your app.
 * [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for apps and provisioning profile files.
 * [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - A tool to convert Xcode .xib to .storyboard files.
-
 
 ## Rapid Development
 
