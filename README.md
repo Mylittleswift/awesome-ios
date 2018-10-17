@@ -30,6 +30,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [How to Use](#how-to-use)
 - [Courses](#courses)
 - [Accessibility](#accessibility)
+- [Alexa](#alexa)
 - [Analytics](#analytics)
 - [App Routing](#app-routing)
 - [Apple TV](#apple-tv)
@@ -210,6 +211,12 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  *Frameworks that help to support accessibility features and enable people with disabilities to use your app*
 
 * [Capable](https://github.com/chrs1885/Capable) - Track accessibility features to improve your app for people with certain disabilities.
+
+## Alexa
+
+*Frameworks that help to support writing custom alexa skills in swift*
+
+* [AlexaSkillsKit](https://github.com/choefele/AlexaSkillsKit) - Swift library to develop custom Alexa Skills.
 
 ## Analytics
 
@@ -397,7 +404,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Swift LineChart](https://github.com/zemirco/swift-linechart) - Line Chart library for iOS written in Swift.
 * [SwiftChart](https://github.com/gpbl/SwiftChart) - Line and area chart library for iOS.
 * [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit
-* [CoreCharts](https://github.com/cagricolak/CoreCharts) - CoreCharts is a simple powerfull yet Charts library for apple products
+* [CoreCharts](https://github.com/cagricolak/CoreCharts) - CoreCharts is a simple powerful yet Charts library for apple products
 
 ## Code Quality
 
@@ -918,7 +925,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [QLayout](https://github.com/josejuanqm/QLayout) - AutoLayout Utility for iOS.
 * [Layoutless](https://github.com/DeclarativeHub/Layoutless) - Minimalistic declarative layout and styling framework built on top of Auto Layout.
 * [Yalta](https://github.com/kean/Yalta) - An intuitive and powerful Auto Layout library.
-* [GranadaLayout](https://github.com/gskbyte/GranadaLayout) - Alternative layout system for iOS, inspired on the Android layout system, that includes linear and relative layouts, as well as an extensible JSON-based layout inflater.
 * [SuperLayout](https://github.com/lionheart/SuperLayout) - Simplify Auto Layout with super syntactic sugar.
 * [QuickLayout](https://github.com/huri000/QuickLayout) - QuickLayout offers a simple way, to easily manage Auto Layout in code.
 * [EEStackLayout](https://github.com/efekanegeli/EEStackLayout) - A structured vertical stack layout.
@@ -1221,6 +1227,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [YoutubeKit](https://github.com/rinov/YoutubeKit) - A video player that fully supports Youtube IFrame API and YoutubeDataAPI for easily create a Youtube app.
 * [Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player) - Swift library for embedding and controlling YouTube videos in your iOS applications!
 * [JDVideoKit](https://github.com/jamesdouble/JDVideoKit) - You can easily transfer your video into Three common video type via this framework.
+* [VersaPlayer](https://github.com/josejuanqm/VersaPlayer) - Versatile AVPlayer implementation for iOS
 
 ## Messaging
 
@@ -1685,7 +1692,7 @@ Most of these are paid services, some have free tiers.
 * [CatCrypto](https://github.com/ImKcat/CatCrypto) - An easy way for hashing and encryption.
 * [SecureEnclaveCrypto](https://github.com/trailofbits/SecureEnclaveCrypto) - Demonstration library for using the Secure Enclave on iOS.
 * [RSASwiftGenerator](https://github.com/4taras4/RSASwiftGenerator) - Util for generation RSA keys on your client and save to keychain or cover into Data 🔑 🔐
-* [Virgil Security Objective-C/Swift Crypto Library](https://github.com/VirgilSecurity/virgil-foundation-x) - A high-level cryptographic library that allows to perform all necessary operations for securely storing and transferring data.
+* [Virgil Security Objective-C/Swift Crypto Library](https://github.com/VirgilSecurity/crypto-x) - A high-level cryptographic library that allows to perform all necessary operations for securely storing and transferring data.
 * [JOSESwift](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK written in Swift.
 
 ### Keychain
@@ -1727,6 +1734,7 @@ Most of these are paid services, some have free tiers.
 * [ApacheExpress](https://github.com/ApacheExpress/ApacheExpress) - Write Apache Modules in Swift!
 * [GCDWebServer](https://github.com/swisspol/GCDWebServer) - Lightweight GCD based HTTP server for macOS & iOS (includes web based uploader & WebDAV server)
 * [Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux.
+* [smoke-framework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language.
 
 ## Text
 * [Twitter Text Obj](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
@@ -2044,7 +2052,6 @@ Most of these are paid services, some have free tiers.
 * [SendIndicator](https://github.com/LeonardoCardoso/SendIndicator) - Yet another task indicator
 * [StepProgressView](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
 * [BPBlockActivityIndicator](https://github.com/ppth0608/BPBlockActivityIndicator) - A simple and awesome Loading Activity Indicator(with funny block animation) for your iOS app.
-* [JustHUD](https://github.com/shubh10/JustHUD) - JustHUD is an iOS drop-in class written in Swift that displays a translucent HUD.
 * [JDBreaksLoading](https://github.com/jamesdouble/JDBreaksLoading) - You can easily start up a little breaking game indicator by one line.
 * [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 * [Windless](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view.
@@ -2625,7 +2632,7 @@ Most of these are paid services, some have free tiers.
 
 * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
 * [YXTPageView](https://github.com/hanton/YXTPageView) - A PageView, which supporting scrolling to transition between a UIView and a UITableView.
-* [ConfigurableTableViewController](https://github.com/fastred/ConfigurableTableViewController) - Typed, yet Flexible Table View Controller http://holko.pl/2016/01/05/typed-table-view-controller/
+* [ConfigurableTableViewController](https://github.com/fastred/ConfigurableTableViewController) - Typed, yet Flexible Table View Controller https://holko.pl/2016/01/05/typed-table-view-controller/
 * [Lightning-Table](https://github.com/electrickangaroo/Lightning-Table) - A declarative api for working with UITableView.
 * [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift.
 * [AMWaveTransition](https://github.com/andreamazz/AMWaveTransition) - Custom transition between viewcontrollers holding tableviews.
