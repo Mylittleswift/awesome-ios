@@ -581,6 +581,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [RealmWrapper](https://github.com/k-lpmg/RealmWrapper) - Safe and easy wrappers for RealmSwift.
 * [UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore) - An easy and very light way to store and retrieve -reasonable amount- of Codable objects, in a couple lines of code!
 * [PropertyKit](https://github.com/metasmile/PropertyKit) - Protocol-First, Type and Key-Safe Swift Property for iOS, macOS and tvOS
+* [PersistenceKit](https://github.com/Teknasyon-Teknoloji/PersistenceKit) - Store and retrieve Codable objects to various persistence layers, in a couple lines of code!
+* [ModelAssistant](https://github.com/ssamadgh/ModelAssistant) - Elegant library to manage the interactions between view and model in Swift.
 
 ## Data Structures / Algorithms
 
@@ -1084,7 +1086,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [GPU Image](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing.
 * [UIImage DSP](https://github.com/gdawg/uiimage-dsp) - iOS UIImage processing functions using the vDSP/Accelerate framework for speed.
 * [AsyncImageView](https://github.com/nicklockwood/AsyncImageView) - Simple extension of UIImageView for loading and displaying images asynchronously without lock up the UI.
-* [SDWebImage](https://github.com/rs/SDWebImage) - Asynchronous image downloader with cache support with an UIImageView category.
+* [SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support with an UIImageView category.
 * [DFImageManager](https://github.com/kean/DFImageManager) - Modern framework for fetching images from various sources. Zero config yet immense customization and extensibility. Uses NSURLSession.
 * [MapleBacon](https://github.com/JanGorman/MapleBacon) - An image download and caching library for iOS written in Swift.
 * [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) - Slideshow and image viewer.
@@ -1176,6 +1178,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [GPUImage3](https://github.com/BradLarson/GPUImage3) - GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
 * [Gallery](https://github.com/hyperoslo/Gallery) - Your next favorite image and video picker.
 * [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and ability to create new transitions with ease.
+* [Pixel](https://github.com/muukii/Pixel) - An image editor and engine using CoreImage.
 
 ### Media Processing
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift
@@ -1400,7 +1403,7 @@ Most of these are paid services, some have free tiers.
 * [JSONModel](https://github.com/JSONModel/JSONModel) - Magical Data Modeling Framework for JSON. Create rapidly powerful, atomic and smart data model classes.
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 * [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - Serialize & deserialize JSON fast.
-* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - A framework written in Swift that makes it easy for you to convert your Model objects (Classes and Structs) to and from JSON.
+* [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) - A framework written in Swift that makes it easy for you to convert your Model objects (Classes and Structs) to and from JSON.
 * [JASON](https://github.com/delba/JASON) - JSON parsing with outstanding performances and convenient operators.
 * [Gloss](https://github.com/hkellaway/Gloss) - A shiny JSON parsing library in Swift.
 * [Cereal](https://github.com/Weebly/Cereal) - Swift object serialization
@@ -2142,6 +2145,7 @@ Most of these are paid services, some have free tiers.
 * [Poi](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
 * [Sica](https://github.com/cats-oss/Sica) - Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.
 * [fireworks](https://github.com/tomkowz/fireworks) - Fireworks effect for UIView
+* [Disintegrate](https://github.com/dbukowski/Disintegrate) - Disintegration animation inspired by THAT thing Thanos did at the end of Avengers: Infinity War.
 
 ### Transition
 * [BlurryModalSegue](https://github.com/Citrrus/BlurryModalSegue) - A custom modal segue for providing a blurred overlay effect.
@@ -2170,6 +2174,7 @@ Most of these are paid services, some have free tiers.
 * [AlertTransition](https://github.com/loopeer/AlertTransition) - AlertTransition is a extensible library for making view controller transitions, especially for alert transitions.
 * [SemiModalViewController](https://github.com/muyexi/SemiModalViewController) - Present view / view controller as bottom-half modal.
 * [ImageTransition](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
+* [LiquidTransition](https://github.com/AlexandrGraschenkov/LiquidTransition) - removes boilerplate code to perform transition, allows backward animations, custom properties animation and much more!
 
 ### Alert & Action Sheet
 
@@ -2737,6 +2742,7 @@ Most of these are paid services, some have free tiers.
 * [AZSafariCollectionViewLayout](https://github.com/AfrozZaheer/AZSafariCollectionViewLayout) - AZSafariCollectionViewLayout is replica of safari browser history page layout. very easy to use, IBInspectable are given for easy integration.
 CollectionView, make Instagram Discover within minutes.
 * [Blueprints](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
+* [UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 
 
 ### Tag
@@ -2877,6 +2883,7 @@ CollectionView, make Instagram Discover within minutes.
  * [ActionClosurable](https://github.com/takasek/ActionClosurable) - Extensions which helps to convert objc-style target/action to swifty closures
  * [ios_system](https://github.com/holzschu/ios_system) - Drop-in replacement for system() in iOS programs
  * [SwiftProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse provisioning profiles into Swift models.
+ * [Once](https://github.com/jianstm/Once) - Minimalist library to manage one-off operations.
 
 ## VR
 * [VR Toolkit iOS](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS
