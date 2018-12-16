@@ -1022,6 +1022,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
 * [MapViewPlus](https://github.com/okhanokbay/MapViewPlus) - Use any custom view as custom callout view of your MKMapView with cool animations. Also, easily use any image as annotation view.
 * [GLMap](https://getyourmap.com) - Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.
+* [MSFlightMapView](https://github.com/mabdulsubhan/MSFlightMapView) - Add and animate geodesic flights on Google map.
 
 ## Math
 
@@ -2222,7 +2223,6 @@ Most of these are paid services, some have free tiers.
 * [RMActionController](https://github.com/CooperRS/RMActionController) - Present any UIView in an UIAlertController like manner.
 * [RMDateSelectionViewController](https://github.com/CooperRS/RMDateSelectionViewController) - Select a date using UIDatePicker in a UIAlertController like fashion.
 * [RMPickerViewController](https://github.com/CooperRS/RMPickerViewController) - Select something using UIPickerView in a UIAlertController like fashion.
-* [Hedwig](https://github.com/carabina/Hedwig) - Interactive notification
 * [Jelly](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 * [Malert](https://github.com/vitormesquita/Malert) - Malert is a simple, easy and custom iOS UIAlertView written in Swift
 * [RAlertView](https://github.com/roycms/AlertView) - AlertView, iOS popup window, A pop-up framework, Can be simple and convenient to join your project.
