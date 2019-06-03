@@ -1,6 +1,5 @@
 
-
-### Content
+## Content
 - [Accessibility](#accessibility)
 - [Alexa](#alexa)
 - [Analytics](#analytics)
@@ -30,13 +29,7 @@
 - [GCD](#gcd)
 - [Gesture](#gesture)
 - [Graphics](#graphics)
-- [Hardware](#hardware)
-    - [Bluetooth](#bluetooth)
-    - [Camera](#camera)
-    - [Force Touch](#force-touch)
-    - [iBeacon](#ibeacon)
-    - [Location](#location)
-    - [Other Hardware](#other-hardware)
+- [Hardware](#hardware): [Bluetooth](#bluetooth) [Camera](#camera) [Force Touch](#force-touch) [iBeacon](#ibeacon) [Location](#location) [Other Hardware](#other-hardware)
 - [Layout](#layout)
 - [Logging](#logging)
 - [Localization](#localization)
