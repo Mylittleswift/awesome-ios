@@ -40,11 +40,9 @@
 - [Passbook](#passbook)
 - [Payments](#payments)
 - [Permissions](#permissions)
-- [Products](#products)
-- [Reactive Programming](#reactive-programming) [React-Like](#react-like)
+- [Reactive Programming](#reactive-programming)
 - [Reflection](#reflection)
 - [Regex](#regex)
-- [SDK](#sdk): /[Official](#official) /[Unofficial](#unofficial)
 - [Security](#security): /[Encryption](#encryption) /[Keychain](#keychain)
 - [Server](#server)
 - [Testing](#testing): /[TDD / BDD](#tdd--bdd) /[A/B Testing](#ab-testing) /[UI Testing](#ui-testing) /[Other Testing](#other-testing)
@@ -53,7 +51,6 @@
 /[Activity Indicator](#activity-indicator) /[Alert & Action Sheet](#alert--action-sheet) /[Animation](#animation) /[Transition](#transition) /[Badge](#badge) /[Button](#button) /[Calendar](#calendar) /[Cards](#cards) /[Form & Settings](#form--settings) /[Keyboard](#keyboard) /[Label](#label) /[Login](#login) /[Menu](#menu) /[Navigation Bar](#navigation-bar) /[PickerView](#pickerview) /[Popup](#popup) /[Pull to Refresh](#pull-to-refresh) /[Rating Stars](#rating-stars) /[ScrollView](#scrollview) /[Segmented Control](#segmented-control) /[Slider](#slider) /[Splash View](#splash-view) /[Status Bar](#status-bar) /[Stepper](#stepper) /[Switch](#switch) /[Tab Bar](#tab-bar) /[Table View / Collection View](#table-view--collection-view) /[Tag](#tag) /[TextField & TextView](#textfield--textview) /[UIPageControl](#uipagecontrol) /[Web View](#web-view)
 - [Utility](#utility)
 - [User Consent](#user-consent)
-- [VR](#vr)
 - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
 - [Websocket](#websocket)
 - [Project setup](#project-setup)
@@ -1289,53 +1286,9 @@ Most of these are paid services, some have free tiers.
 * [AREK](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
 * [SPPermission](https://github.com/IvanVorobei/SPPermission) - Request permissions with dialog. Check state any permissions.
 
-## Products
-* [Import.io](https://www.import.io/) - Instantly Turn Web Pages into Data.
-* [Tapglue](https://www.tapglue.com/) - Build social products and a activity feed with a few lines of code.
-* [OpenShop.io](https://github.com/openshopio/openshop.io-ios) - mobile e-commerce solution connected to Facebook Ads and Google.
-
 ## Reactive Programming
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
-* [RxOptional](https://github.com/thanegill/RxOptional) - RxSwift extensions for Swift optionals and "Occupiable" types
-* [ReactiveTask](https://github.com/Carthage/ReactiveTask) - Flexible, stream-based abstraction for launching processes
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Streams of values over time.
-* [RxMediaPicker](https://github.com/RxSwiftCommunity/RxMediaPicker) - A reactive wrapper built around UIImagePickerController.
-* [ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData) - ReactiveCoreData (RCD) is an attempt to bring Core Data into the ReactiveCocoa (RAC) world.
-* [ReSwift](https://github.com/ReSwift/ReSwift) - Unidirectional Data Flow in Swift - Inspired by Redux
-* [ReactiveKit](https://github.com/DeclarativeHub/ReactiveKit) - ReactiveKit is a collection of Swift frameworks for reactive and functional reactive programming.
-* [RxPermission](https://github.com/sunshinejr/RxPermission) - RxSwift bindings for Permissions API in iOS.
-* [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) - RxSwift wrapper around the elegant HTTP networking in Swift Alamofire
-* [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) - Rx wrapper for Realm's collection types
-* [RxMultipeer](https://github.com/RxSwiftCommunity/RxMultipeer) - A testable RxSwift wrapper around MultipeerConnectivity
-* [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit) - iOS & macOS Bluetooth library for RxSwift
-* [RxGesture](https://github.com/RxSwiftCommunity/RxGesture) - RxSwift reactive wrapper for view gestures
-* [NSObject-Rx](https://github.com/RxSwiftCommunity/NSObject-Rx) - Handy RxSwift extensions on NSObject, including rx_disposeBag.
-* [RxCoreData](https://github.com/RxSwiftCommunity/RxCoreData) - RxSwift extensions for Core Data
-* [RxAutomaton](https://github.com/inamiy/RxAutomaton) - RxSwift + State Machine, inspired by Redux and Elm.
-* [ReactiveArray](https://github.com/Wolox/ReactiveArray) - An array class implemented in Swift that can be observed using ReactiveCocoa's Signals.
-* [Interstellar](https://github.com/JensRavens/Interstellar) - Simple and lightweight Functional Reactive Coding in Swift for the rest of us.
-* [ReduxSwift](https://github.com/lsunsi/ReduxSwift) - Predictable state container for Swift apps too.
-* [Aftermath](https://github.com/hyperoslo/Aftermath) - Stateless message-driven micro-framework in Swift.
-* [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) - Reactive Keyboard in iOS.
-* [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - Native App over HTTP. Create your own native iOS app with nothing but JSON.
-* [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift) - Streams of values over time by ReactiveCocoa group
-* [Listenable](https://github.com/msaps/Listenable) - Swift object that provides an observable platform.
-* [Reactor](https://github.com/ReactorSwift/Reactor) - :arrows_counterclockwise: Unidirectional Data Flow using idiomatic Swift—inspired by Elm and Redux .
-* [Snail](https://github.com/UrbanCompass/Snail) - An observables framework for Swift
-* [RxWebSocket](https://github.com/fjcaetano/RxWebSocket) - Reactive extension over Starscream for websockets
-* [ACKReactiveExtensions](https://github.com/AckeeCZ/ACKReactiveExtensions) - Useful extensions for ReactiveCocoa
-* [ReactiveLocation](https://github.com/AckeeCZ/ReactiveLocation) - CoreLocation made reactive
-* [Hanson](https://github.com/blendle/Hanson) - Lightweight observations and bindings in Swift, with support for KVO and NotificationCenter.
-* [Observable](https://github.com/roberthein/Observable) - The easiest way to observe values in Swift.
-* [SimpleApiClient](https://github.com/jaychang0917/SimpleApiClient-ios) - A configurable api client based on Alamofire4 and RxSwift4 for iOS.
-* [VueFlux](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture for Swift - Inspired by Vuex and Flux
-* [RxAnimated](https://github.com/RxSwiftCommunity/RxAnimated) - Animated RxCocoa bindings
-* [BindKit](https://github.com/electricbolt/bindkit) - Two-way data binding framework for iOS. Only one API to learn.
-* [STDevRxExt](https://github.com/stdevteam/STDevRxExt) - STDevRxExt contains some extension functions for RxSwift and RxCocoa which makes our live easy.
-* [RxReduce](https://github.com/RxSwiftCommunity/RxReduce) - Lightweight framework that ease the implementation of a state container pattern in a Reactive Programming compliant way.
-* [RxCoordinator](https://github.com/quickbirdstudios/XCoordinator) -  Powerful navigation library for iOS based on the coordinator pattern.
-* [RxAlamoRecord](https://github.com/Daltron/RxAlamoRecord) Combines the power of the AlamoRecord and RxSwift libraries to create a networking layer that makes interacting with API's easier than ever reactively.
-* [CwlSignal](https://github.com/mattgallagher/CwlSignal) A Swift framework for reactive programming.
 
 
 ## Reflection
@@ -2606,11 +2559,6 @@ CollectionView, make Instagram Discover within minutes.
 ## User Consent
 * [SmartlookConsentSDK](https://github.com/smartlook/ios-consent-sdk) - Open source SDK which provides a configurable control panel where user can select their privacy options and store the user preferences for the app.
 
-## VR
-* [VR Toolkit iOS](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS
-* [360 VR Player](https://github.com/hanton/HTY360Player) - A open source, ad-free, native and universal 360 degree panorama video player for iOS.
-* [simple360player](https://github.com/Aralekk/simple360player_iOS) - Free & ad-free 360 VR Video Player. Flat or Stereoscopic. In Swift 2.
-* [Swifty360Player](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer with Swift.
 
 ## Walkthrough / Intro / Tutorial
 * [Onboard](https://github.com/mamaral/Onboard) - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
