@@ -318,27 +318,7 @@
 
 *Time and NSCalendar libraries. Also contains Sunrise and Sunset time generators, time pickers and NSTimer interfaces.*
 
-* [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - The best way to manage Dates and Timezones in Swift.
-* [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
-* [DateTools](https://github.com/MatthewYork/DateTools) - Dates and times made easy in Objective-C
-* [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer
-* [DateHelper](https://github.com/melvitax/DateHelper) - Convenience extension for NSDate in Swift
-* [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter) - A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.
-* [EmojiTimeFormatter](https://github.com/thomaspaulmann/EmojiTimeFormatter) - Format your dates/times as emojis.
-* [Kronos](https://github.com/lyft/Kronos) - Elegant NTP date library in Swift
-* [TrueTime](https://github.com/instacart/TrueTime.swift) - Get the true current time impervious to device clock time changes. (NTP library for Swift) .
-* [10Clock](https://github.com/joedaniels29/10Clock) - This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 "Bedtime" timer.
-* [NSDate-TimeAgo](https://github.com/kevinlawler/NSDate-TimeAgo) - A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad.
-* [AnyDate](https://github.com/Kawoou/AnyDate) - Swifty Date & Time API inspired from Java 8 DateTime API.
-* [TimeZonePicker](https://github.com/gligorkot/TimeZonePicker) - A TimeZonePicker UIViewController similar to the iOS Settings app.
-* [Time](https://github.com/dreymonde/Time) - Type-safe time calculations in Swift, powered by generics. [e]
-* [Chronology](https://github.com/davedelong/Chronology) - Building a better date/time library
-* [Solar](https://github.com/ceeK/Solar) - A Swift micro library for generating Sunrise and Sunset times.
-* [TimePicker](https://github.com/Endore8/TimePicker) - Configurable time picker component based on a pan gesture and its velocity.
-* [LFTimePicker](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift
-* [NVDate](https://github.com/novalagung/nvdate) - Swift4 Date extension library
-* [Schedule](https://github.com/luoxiu/Schedule) - ⏳ A missing lightweight task scheduler for Swift with an incredibly human-friendly syntax.
 
 ## Debugging
 
