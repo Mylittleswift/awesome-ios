@@ -5,7 +5,6 @@
 - [Architecture Patterns](#architecture-patterns)
 - [ARKit](#arkit)
 - [Authentication](#authentication)
-- [Bridging](#bridging)
 - [Cache](#cache)
 - [Charts](#charts)
 - [Code Quality](#code-quality): /[Linter](#linter)
@@ -148,16 +147,6 @@
 * [InstagramLogin](https://github.com/AnderGoig/InstagramLogin) - A simple way to authenticate Instagram accounts on iOS.
 * [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) - [In]visible ReCaptcha for iOS.
 * [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to login and retrieve access token from LinkedIn.
-
-
-## Bridging
-
-*Sharing code between Objective-C and Swift, iOS and macOS, Javascript and Objective-C.*
-
-* [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and macOS applications for iPhone, iPad and Mac, all using the Ruby language.
-* [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
-* [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/macOS bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews
-* [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and macOS
 
 ## Cache
 
