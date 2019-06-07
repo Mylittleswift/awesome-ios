@@ -1,8 +1,7 @@
 
 - [Analytics](#analytics)
 - [Charts](#charts)
-- [Code Quality](#code-quality):
-- [Color](#color)
+- [Code Quality](#code-quality)
 - [Database](#database)
 - [Date & Time](#date--time)
 - [Debugging](#debugging)
@@ -71,13 +70,6 @@
 
 * [OCLint](https://github.com/oclint/oclint) - Static code analysis tool for improving quality and reducing defects for Objective-C.
 * [Swiftlint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
-
-
-## Color
-
-*Hex color extensions, theming, color pickers and other awesome color tools.*
-
-* [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift).
 
 
 ## Database
