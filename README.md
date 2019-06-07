@@ -3,8 +3,6 @@
 - [Charts](#charts)
 - [Code Quality](#code-quality):
 - [Color](#color)
-- [Command Line](#command-line)
-- [Concurrency](#concurrency)
 - [Database](#database)
 - [Date & Time](#date--time)
 - [Debugging](#debugging)
@@ -80,57 +78,6 @@
 *Hex color extensions, theming, color pickers and other awesome color tools.*
 
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift).
-* [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift. [e]
-* [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor. [e]
-* [Colours](https://github.com/bennyguitar/Colours) - A beautiful set of predefined colors and a set of color methods to make your iOS/macOS development life easier.
-* [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
-* [Hue](https://github.com/zenangst/Hue) - Hue is the all-in-one coloring utility that you'll ever need.
-* [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette helpers written in Swift.
-* [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from randomColor.js.
-* [PFColorHash](https://github.com/PerfectFreeze/PFColorHash) - Generate color based on the given string.
-* [BCColor](https://github.com/boycechang/BCColor) - A lightweight but powerful color kit (Swift)
-* [DKNightVersion](https://github.com/Draveness/DKNightVersion) - Manage Colors, Integrate Night/Multiple Themes
-* [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code) and conforms to ECMA Standard 48.
-* [TFTColor](https://github.com/burhanuddin353/TFTColor) - Simple Extension for RGB and CMKY Hex Strings and Hex Values (ObjC & Swift).
-* [CostumeKit](https://github.com/jakemarsh/CostumeKit) - Base types for theming an app.
-* [CSS3ColorsSwift](https://github.com/WorldDownTown/CSS3ColorsSwift) - A UIColor extension with CSS3 Colors name.
-* [Colorify](https://github.com/czater/Colorify) - Simple, yet powerful color library that includes latest and most trendy colors from 2017.
-* [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - An intuitive iOS color picker built in Swift.
-* [Lorikeet](https://github.com/valdirunars/Lorikeet) - A lightweight Swift framework for aesthetically pleasing color-scheme generation and CIE color-difference calculation.
-* [Gestalt](https://github.com/regexident/Gestalt) - An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
-
-## Command Line
-
-*Smart, beauftil and elegant tools to help you create command line applications.*
-
-* [Swiftline](https://github.com/nsomar/Swiftline) - Swiftline is a set of tools to help you create command line applications.
-* [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
-* [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift
-* [ColorizeSwift](https://github.com/mtynior/ColorizeSwift) - Terminal string styling for Swift.
-* [Guaka](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) Command line framework for Swift
-* [Marathon](https://github.com/JohnSundell/Marathon) - Marathon makes it easy to write, run and manage your Swift scripts
-* [CommandCougar](https://github.com/surfandneptune/CommandCougar) - An elegant pure Swift library for building command line applications.
-* [Crayon](https://github.com/luoxiu/Crayon) - Terminal string styling with expressive api and 256/TrueColor support.
-* [SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting and running shell commands.
-
-## Concurrency
-
-*Job schedulers, Coroutines, Asynchronous and Type safe threads libs and frameworks written in Swift*
-
-* [Venice](https://github.com/Zewo/Venice) - CSP (Coroutines, Channels, Select) for Swift
-* [Concurrent](https://github.com/typelift/Concurrent) - Functional Concurrency Primitives
-* [Flow](https://github.com/JohnSundell/Flow) - Operation Oriented Programming in Swift
-* [Brisk](https://github.com/jmfieldman/Brisk) - A Swift DSL that allows concise and effective concurrency manipulation.
-* [Aojet](https://github.com/aojet/Aojet) - An actor model library for swift.
-* [Overdrive](https://github.com/arikis/Overdrive) - Fast async task based Swift framework with focus on type safety, concurrency and multi threading.
-* [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
-* [Kommander](https://github.com/intelygenz/Kommander-iOS) - Kommander is a Swift library to manage the task execution in different threads. Through the definition a simple but powerful concept, Kommand.
-* [Threadly](https://github.com/nvzqz/Threadly) - Type-safe thread-local storage in Swift
-* [Flow-iOS](https://github.com/roytornado/Flow-iOS) - Make your logic flow and data flow clean and human readable
-* [Queuer](https://github.com/FabrizioBrancati/Queuer) - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
-* [SwiftQueue](https://github.com/lucas34/SwiftQueue) - Job Scheduler with Concurrent run, failure/retry, persistence, repeat, delay and more.
-* [GroupWork](https://github.com/quanvo87/GroupWork) - Easy concurrent, asynchronous tasks in Swift.
-* [StickyLocking](https://github.com/stickytools/sticky-locking) - A general purpose embedded hierarchical lock manager used to build highly concurrent applications of all types. Built with Swift and runs on iOS, OSX, and Linux.
 
 
 ## Database
