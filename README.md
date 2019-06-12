@@ -20,7 +20,7 @@
 - [Utility](#utility)
 - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
 - [Tools](#tools)
-- [UI](#*** UI ***): 
+- [UI](#UI): 
 /[Activity Indicator](#activity-indicator) /[Alert & Action Sheet](#alert--action-sheet) /[Animation](#animation) /[Transition](#transition) /[Badge](#badge) /[Button](#button) /[Calendar](#calendar) /[Cards](#cards) /[Form & Settings](#form--settings) /[Keyboard](#keyboard) /[Label](#label) /[Login](#login) /[Menu](#menu) /[Navigation Bar](#navigation-bar) /[PickerView](#pickerview) /[Popup](#popup) /[Pull to Refresh](#pull-to-refresh) /[Rating Stars](#rating-stars) /[ScrollView](#scrollview) /[Segmented Control](#segmented-control) /[Slider](#slider) /[Splash View](#splash-view) /[Status Bar](#status-bar) /[Stepper](#stepper) /[Switch](#switch) /[Tab Bar](#tab-bar) /[Table View / Collection View](#table-view--collection-view) /[Tag](#tag) /[TextField & TextView](#textfield--textview) /[UIPageControl](#uipagecontrol) /[Web View](#web-view)
 
 
@@ -34,13 +34,11 @@
 
 ## Code Quality
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
-* [OCLint](https://github.com/oclint/oclint) - Static code analysis tool for improving quality and reducing defects for Objective-C.
 * [Swiftlint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 
 ## Database
 * [Realm](https://github.com/realm/realm-cocoa) - The alternative to CoreData and SQLite: Simple, modern and fast.
 * [FMDB](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite.
-* [GRDB.swift](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit for Swift, with WAL mode support
 
 ## Data Structures / Algorithms
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
@@ -130,7 +128,7 @@
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - A tool that brings meta-programming to Swift, allowing you to code generate Swift code.
 * [Lona](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
 
-## *** UI ***
+## UI
 * [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
 * [Motif](https://github.com/erichoracek/Motif) - A lightweight and customizable JSON stylesheet framework for iOS.
 * [Texture](https://github.com/TextureGroup/Texture) - Smooth asynchronous user interfaces for iOS apps.
