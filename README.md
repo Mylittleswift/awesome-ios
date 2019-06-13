@@ -9,7 +9,7 @@
 - [Layout](#layout)
 - [Logging](#logging)
 - [Machine Learning](#machine-learning)
-- [Media](#media): /[Image](#image) /[QRCode](#QRCode) /[PDF](#pdf) /
+- [Media](#media): /[Image](#image) /[QRCode](#QRCode)
 - [Networking](#networking)
 - [JSON Parsing](#json-parsing)
 - [Payments](#payments)
@@ -80,11 +80,7 @@
 ### QRCode
 * [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate two-dimensional code in Swift.
 
-### PDF
-* [PSPDFKit](https://pspdfkit.com/) - Render PDF, add/edit annotations, fill forms, add/edit pages, view/create digital signatures.
-
 ## Networking
-* [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and macOS networking framework.
 * [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire is an HTTP networking library written in Swift, from the creator of AFNetworking.
 
 ## JSON Parsing
