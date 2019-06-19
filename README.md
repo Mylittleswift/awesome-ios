@@ -115,6 +115,7 @@
 
 ## Walkthrough / Intro / Tutorial
 * [Instructions](https://github.com/ephread/Instructions) - Easily add customizable coach marks into you iOS project.
+* [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift for iOS.
 
 ## Tools
 * [R.swift](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues in your Swift project.
