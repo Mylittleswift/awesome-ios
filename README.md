@@ -1,84 +1,44 @@
-- [Analytics](#analytics)
 - [Charts](#charts)
 - [Code Quality](#code-quality)
 - [Database](#database)
-- [Date & Time](#date--time)
-- [EventBus](#eventbus)
-- [Files](#files)
-- [Hardware](#hardware): /[Bluetooth](#bluetooth) /[Location](#location)
-- [Layout](#layout)
+- [Bluetooth](#bluetooth)
 - [Logging](#logging)
 - [Machine Learning](#machine-learning)
-- [Media](#media): /[Image](#image) /[QRCode](#QRCode)
+- [Image](#image)
 - [Networking](#networking)
 - [JSON Parsing](#json-parsing)
-- [Payments](#payments)
-- [Permissions](#permissions)
 - [Reactive Programming](#reactive-programming)
-- [Security](#security): /[Encryption](#encryption) /[Keychain](#keychain)
+- [Encryption](#encryption)
 - [Testing](#testing)
 - [Utility](#utility)
-- [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
 - [Tools](#tools)
 - [UI](#UI): 
-/[Activity Indicator](#activity-indicator) /[Alert & Action Sheet](#alert--action-sheet) /[Animation](#animation) /[Transition](#transition) /[Badge](#badge) /[Button](#button) /[Calendar](#calendar) /[Cards](#cards) /[Form & Settings](#form--settings) /[Keyboard](#keyboard) /[Label](#label) /[Login](#login) /[Menu](#menu) /[Navigation Bar](#navigation-bar) /[PickerView](#pickerview) /[Popup](#popup) /[Pull to Refresh](#pull-to-refresh) /[Rating Stars](#rating-stars) /[ScrollView](#scrollview) /[Segmented Control](#segmented-control) /[Slider](#slider) /[Splash View](#splash-view) /[Status Bar](#status-bar) /[Stepper](#stepper) /[Switch](#switch) /[Tab Bar](#tab-bar) /[Table View / Collection View](#table-view--collection-view) /[Tag](#tag) /[TextField & TextView](#textfield--textview) /[UIPageControl](#uipagecontrol) /[Web View](#web-view)
+/[Activity Indicator](#activity-indicator) /[Alert & Action Sheet](#alert--action-sheet) /[Animation](#animation) /[Transition](#transition) /[Badge](#badge) /[Button](#button) /[Calendar](#calendar) /[Cards](#cards) /[Form & Settings](#form--settings) /[Keyboard](#keyboard) /[Label](#label) /[Login](#login) /[Menu](#menu) /[Navigation Bar](#navigation-bar) /[PickerView](#pickerview) /[Popup](#popup) /[Pull to Refresh](#pull-to-refresh) /[Rating Stars](#rating-stars) /[ScrollView](#scrollview) /[Segmented Control](#segmented-control) /[Slider](#slider) /[Splash View](#splash-view) /[Status Bar](#status-bar) /[Stepper](#stepper) /[Switch](#switch) /[Tab Bar](#tab-bar) /[Table View / Collection View](#table-view--collection-view) /[Tag](#tag) /[TextField & TextView](#textfield--textview) /[UIPageControl](#uipagecontrol) /[Web View](#web-view) /[Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
 
-
-
-
-## Analytics
-* [Answers by Fabric](https://get.fabric.io) - Answers gives you real-time insight into people’s experience in your app.
 
 ## Charts
 * [Charts](https://github.com/danielgindi/Charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
 
 ## Code Quality
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 * [Swiftlint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 
 ## Database
 * [Realm](https://github.com/realm/realm-cocoa) - The alternative to CoreData and SQLite: Simple, modern and fast.
-* [FMDB](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite.
 
 ## Data Structures / Algorithms
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 
-## Date & Time
-* [SwiftDate](https://github.com/malcommac/SwiftDate) - The best way to manage Dates and Timezones in Swift.
-
-## EventBus
-* [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for iOS and macOS.
-
-## Files
-* [ZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files on iOS and Mac.
-
-## Hardware
-
-### Bluetooth
+## Bluetooth
 * [Bluejay](https://github.com/steamclock/bluejay) - A simple Swift framework for building reliable Bluetooth LE apps.
 
-### Location
-* [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Location & Beacon Monitoring in Swift
-
-## Layout
-* [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & macOS.
-* [TinyConstraints](https://github.com/roberthein/TinyConstraints) -  The syntactic sugar that makes Auto Layout sweeter for human use.
-
 ## Logging
-* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS.
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift
 
 ## Machine Learning
 * [Tensorflow-iOS](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios) - The official Google-built powerful neural network library port for iOS.
 
-## Media
-
-### Image
+## Image
 * [SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support with an UIImageView category.
-* [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight and pure Swift implemented library for downloading and caching image from the web.
-
-### QRCode
-* [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate two-dimensional code in Swift.
 
 ## Networking
 * [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire is an HTTP networking library written in Swift, from the creator of AFNetworking.
@@ -86,25 +46,12 @@
 ## JSON Parsing
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 
-## Payments
-* [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+ and macOS 9.0+
-
-## Permissions
-* [SPPermission](https://github.com/IvanVorobei/SPPermission) - Request permissions with dialog. Check state any permissions.
-
 ## Reactive Programming
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Streams of values over time.
 
-## Security
-### Encryption
+## Encryption
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language
-
-### Keychain
-* [Valet](https://github.com/square/Valet) - Securely store data in the iOS or macOS Keychain without knowing a thing about how the Keychain works.
-
-## Server
-* [Vapor](https://github.com/vapor/vapor) - Elegant web framework for Swift that works on iOS, macOS, and Ubuntu.
 
 ## Testing
 * [Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
@@ -113,17 +60,9 @@
 ## Utility
  * [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) -  A handy collection of more than 400 native Swift 4 extensions to boost your productivity.
 
-## Walkthrough / Intro / Tutorial
-* [Instructions](https://github.com/ephread/Instructions) - Easily add customizable coach marks into you iOS project.
-* [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift for iOS.
-
 ## Tools
-* [R.swift](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues in your Swift project.
-* [SwiftGen](https://github.com/SwiftGen/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings and UIColors).
-* [Jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C.
-* [infer](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C.
-* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - A tool that brings meta-programming to Swift, allowing you to code generate Swift code.
-* [Lona](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+
 
 ## UI
 * [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
@@ -993,5 +932,8 @@ CollectionView, make Instagram Discover within minutes.
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl.
 * [Page-Control](https://github.com/sevruk-dev/page-control) - 💥 Beautiful, animated and highly customizable UIPageControl alternative.
 
+## Walkthrough / Intro / Tutorial
+* [Instructions](https://github.com/ephread/Instructions) - Easily add customizable coach marks into you iOS project.
+* [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift for iOS.
 
 
