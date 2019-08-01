@@ -8,7 +8,6 @@
 - [Networking](#networking)
 - [JSON Parsing](#json-parsing)
 - [Reactive Programming](#reactive-programming)
-- [Encryption](#encryption)
 - [Testing](#testing)
 - [Utility](#utility)
 - [Tools](#tools)
@@ -49,9 +48,6 @@
 ## Reactive Programming
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Streams of values over time.
-
-## Encryption
-* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language
 
 ## Testing
 * [Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
